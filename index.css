@@ -1,0 +1,64 @@
+ body {
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #3F0077;
+    margin-bottom: 4px;
+  }
+  
+  /* Advanced CSS for button styling */
+  button {
+    color: white;
+    font-weight: bold;
+    border: 1px solid #3F0077;
+    border-radius: 5px;
+    padding: 10px 25px;
+    text-transform: uppercase;
+    background-color: #3F0077;
+    transition: all 0.2s ease;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.25);
+  }
+  
+  /* Hover state for button */
+  button:hover {
+    background-color: #734a96;
+    cursor: pointer;
+    transform: translateY(-2px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+  }
+  
+  /* Specific styling for delete button */
+  #delete-btn {
+    background-color: white;
+    color: #3F0077;
+    border: 1px solid #3F0077;
+    transition: all 0.2s ease;
+  }
+  
+  /* Hover state for delete button */
+  #delete-btn:hover {
+    background-color: #3f0077;
+    color: white;
+    cursor: pointer;
+  }
+  
+  ul {
+    margin-top: 20px;
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  li {
+    margin-top: 5px;
+  }
+  
+  a {
+    color: #3F0077;
+  }
