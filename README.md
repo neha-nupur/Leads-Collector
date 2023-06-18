@@ -33,4 +33,4 @@ If you want to modify the code and build the extension yourself, follow these st
 
 ## Credits
 
-This project was created by Neha Nupur as an example for learning purposes. 
+This project was created by `Neha Nupur` as an example for learning purposes. 
