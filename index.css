@@ -13,7 +13,6 @@
     margin-bottom: 4px;
   }
   
-  /* Advanced CSS for button styling */
   button {
     color: white;
     font-weight: bold;
@@ -26,7 +25,6 @@
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.25);
   }
   
-  /* Hover state for button */
   button:hover {
     background-color: #734a96;
     cursor: pointer;
@@ -34,7 +32,6 @@
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
   }
   
-  /* Specific styling for delete button */
   #delete-btn {
     background-color: white;
     color: #3F0077;
@@ -42,7 +39,6 @@
     transition: all 0.2s ease;
   }
   
-  /* Hover state for delete button */
   #delete-btn:hover {
     background-color: #3f0077;
     color: white;
