@@ -35,7 +35,7 @@ If you want to modify the code and build the extension yourself, follow these st
 
 This project was created by `Neha Nupur` as an example for learning purposes.
 
-# Screenshot
+## Screenshot
 
 ![image](https://github.com/neha-nupur/Leads-Collector/assets/110279038/019bf73d-e976-4c6f-aa25-0b630fae0ae3)
 
