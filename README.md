@@ -33,4 +33,11 @@ If you want to modify the code and build the extension yourself, follow these st
 
 ## Credits
 
-This project was created by `Neha Nupur` as an example for learning purposes. 
+This project was created by `Neha Nupur` as an example for learning purposes.
+
+# Screenshot
+
+![image](https://github.com/neha-nupur/Leads-Collector/assets/110279038/019bf73d-e976-4c6f-aa25-0b630fae0ae3)
+
+![image](https://github.com/neha-nupur/Leads-Collector/assets/110279038/7609321d-6ba2-4440-b4bf-6936c5543514)
+
